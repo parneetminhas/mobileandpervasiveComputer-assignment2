@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "675957500538",
+    "project_id": "smartcartbuddy",
+    "storage_bucket": "smartcartbuddy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675957500538:android:cdd31f1294f9e41905a9c3",
+        "android_client_info": {
+          "package_name": "com.smartcartbuddy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnqRFlZv5WCoI2rE6vaYkAuYoijZYYwrs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
